@@ -17,11 +17,10 @@ Skills required for full-stack data professionals.
 - Statistics 
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
 
-## Data Architecture
-- Data Modeling and Design
-- Data Management and Governance 
-- Data Security Protection
-- Technology Evaluation
+## Data Management
+- [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
+- Data Modeling 
+- Data Governance & Security
 
 # Knowledge
 
@@ -47,16 +46,16 @@ Skills required for full-stack data professionals.
     - Professional Data Engineer | Professional Machine Learning Engineer 
     - Professional Cloud Database Engineer
     - Professional Cloud Architect
-
-- [CDMP (Certified for Data Management Professional)](https://cdmp.info/exams/)
-    - Fundamentals Exam: Associate/Professional/Master/Fellow
-    - Specialist Exam: Data Modelling and Design, Metadata, Data Quality, Data Governance, Data Warehousing & Business Intelligence, Reference And Master Data Management,  Data Integration And Interoperability 
-
+    
 - [Kubernetes](https://kubernetes.io/training/)
     - Kubernetes and Cloud Native Associate (KCNA)
     - Certified Kubernetes Application Developer (CKAD)
     - Certified Kubernetes Administrator (CKA)
     - Certified Kubernetes Security Specialist (CKS)
+
+- [CDMP (Certified for Data Management Professional)](https://cdmp.info/exams/)
+    - Fundamentals Exam: Associate/Professional/Master/Fellow
+    - Specialist Exam: Data Modelling and Design, Metadata, Data Quality, Data Governance, Data Warehousing & Business Intelligence, Reference And Master Data Management,  Data Integration And Interoperability 
     
 - [TOGAF](https://www.opengroup.org/togaf)
 
