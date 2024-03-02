@@ -9,13 +9,10 @@ Skills required for full-stack data professionals.
 - Data Profiling and Data Quality Assessment
 - Data Pipeline Development
 
-## Data Analytics
-- Data Exploration and Analysis 
-- Data Interpretation and Visualization
-
 ## Data Science
 - Statistics 
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
+- [Data Analytics and Reporting](./DataScience/DataAnalyticsandReporting.ipynb)
 
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
