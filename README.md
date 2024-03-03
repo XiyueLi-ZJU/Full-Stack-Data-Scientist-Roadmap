@@ -4,7 +4,7 @@
 
 Skills required for full-stack data professionals. 
 
-## Data Engineering
+## [Data Engineering](./DataEngineering/DataEngineering.ipynb) 
 - Data Collection and Transformation 
 - Data Profiling and Data Quality Assessment
 - Data Pipeline Development
