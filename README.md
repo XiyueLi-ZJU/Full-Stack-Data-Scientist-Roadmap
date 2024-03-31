@@ -12,6 +12,7 @@ Skills required for full-stack data professionals.
 - Statistics 
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
 - [Data Analytics and Reporting](./DataScience/DataAnalyticsandReporting.ipynb)
+    - [Example - **🌱Sqaure Meter Gardening🌱** Project KPI](./Example/KPI.ipynb)
 
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
