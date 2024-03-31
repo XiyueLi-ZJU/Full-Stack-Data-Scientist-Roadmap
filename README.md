@@ -4,10 +4,9 @@
 
 Skills required for full-stack data professionals. 
 
-## [Data Engineering](./DataEngineering/DataEngineering.ipynb) 
-- Data Collection and Transformation 
-- Data Profiling and Data Quality Assessment
-- Data Pipeline Development
+## [Data Engineering]
+- [Tech Skills and Key Responsibilities Overview](./DataEngineering/DataEngineering.ipynb) 
+    - [Example - Using ApacheAirflow for weekly reporting](./Example/Apache%20Airflow/Airflow_for_Weekly_Reporting.ipynb)
 
 ## Data Science
 - Statistics 
@@ -17,7 +16,7 @@ Skills required for full-stack data professionals.
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
 - Data Modeling
-    - [Example - Data Model for **🌱Sqaure Meter Gardening🌱**](./DataManagement/DataModeling-Example.ipynb) 
+    - [Example - **🌱Sqaure Meter Gardening🌱** Project Data Modeling](./DataManagement/DataModeling-Example.ipynb) 
 - Data Governance & Security
 
 # Knowledge
