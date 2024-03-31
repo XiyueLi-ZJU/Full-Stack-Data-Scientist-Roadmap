@@ -4,7 +4,7 @@
 
 Skills required for full-stack data professionals. 
 
-## [Data Engineering]
+## Data Engineering
 - [Tech Skills and Key Responsibilities Overview](./DataEngineering/DataEngineering.ipynb) 
     - [Example - Using ApacheAirflow for weekly reporting](./Example/Apache%20Airflow/Airflow_for_Weekly_Reporting.ipynb)
 
