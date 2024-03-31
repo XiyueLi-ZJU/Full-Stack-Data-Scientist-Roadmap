@@ -10,7 +10,7 @@ WHERE
 
 
 -- SELECT 
---     COUNT(DISTINCT o.order_id) AS volume_of_transactions,
+--     COUNT(DISTINCT o.order_id) AS order_volume,
 --     AVG(o.total_amount) AS average_order_value,
 --     AVG(basket_size) AS basket_size
 -- FROM 

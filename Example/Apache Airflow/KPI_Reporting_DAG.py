@@ -4,17 +4,14 @@ from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
 import psycopg2
 import pandas as pd
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 
 default_args = {
-    'owner': 'DataEngineeringTea',
+    'owner': 'DataEngineeringTeam',
     'depends_on_past': False,
     'start_date': datetime.now(),
     'email': ['data_engineer@YourSquaremetergardening.com'],
-    'email_on_failure': TRUE,
-    'email_on_retry': TRUE,
+    'email_on_failure': True,
+    'email_on_retry': True,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
@@ -23,7 +20,7 @@ dag = DAG(
     'weekly_kpi_report',
     default_args=default_args,
     description='Data Pipeline for Sqaure Meter Gardening project weekly KPI report',
-    schedule_interval='59 23 * * 0',  # Run at 12 PM every Sunday
+    schedule_interval='59 23 * * 0',  # Run at 23:59PM every Sunday
     catchup=False,
 )
 
@@ -45,14 +42,14 @@ def fetch_data():
     return df
 
 def calculate_kpis(df):
-    # Calculate KPIs: Volume of Transactions, Average Order Value, Average Basket Size
-    volume_of_transactions = len(df)
+    # Calculate KPIs: Order Volume, Average Order Value, Average Basket Size
+    order_volume = len(df)
     average_order_value = df['TotalAmount'].mean()
     average_basket_size = df.groupby('OrderID')['ProductId'].count().mean()
     # Generate the KPI report
-    report = f"Weekly KPI Report:\nVolume of Transactions: {volume_of_transactions}\nAverage Order Value: {average_order_value}\nBasket Size: {average_basket_size}"
+    report = f"Weekly KPI Report:\nOrder Volume: {order_volume}\nAverage Order Value: {average_order_value}\nBasket Size: {average_basket_size}"
     print(report)
-    return volume_of_transactions, average_order_value, average_basket_size
+    return order_volume, average_order_value, average_basket_size
 
     
 # Task to extract data from source systems
