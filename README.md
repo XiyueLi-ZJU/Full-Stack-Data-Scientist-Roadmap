@@ -12,6 +12,7 @@ Skills required for full-stack data professionals.
 
 ## Data Science
 - Statistics 
+    - [AB Testing](./DataScience/ABTesting.ipynb)
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
     - [ML Pipeline](./DataScience/MachineLearning/MLPipeline.ipynb)
     - [Clustering](./DataScience/MachineLearning/Clustering.ipynb)
