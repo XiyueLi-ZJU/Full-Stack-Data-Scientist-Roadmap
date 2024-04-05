@@ -20,7 +20,7 @@ Skills required for full-stack data professionals.
 
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
-    [Example - **🌱Sqaure Meter Gardening🌱** Data Architecture](./Example/DataArchitecure-Example.ipynb)
+    - [Example - **🌱Sqaure Meter Gardening🌱** Data Architecture](./Example/DataArchitecure-Example.ipynb)
 - Data Modeling
     - [Example - **🌱Sqaure Meter Gardening🌱** Project Data Modeling](./DataManagement/DataModeling-Example.ipynb) 
 - Data Governance & Security
