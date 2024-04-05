@@ -1,7 +1,7 @@
 # Full-Stack-Data-Professional-Learning-Path
 
 Why create this repo?
-- 💡 To provide a reference for starters and inspire individuals entering the word of data.
+- 💡 To provide a reference for starters and inspire individuals to learn.
 - 🔦 To provide project examples to enhance understanding of concepts.
 - 📚 To organize knowledge in a systematic way. While AI can provide extensive information, knowing the complete framework is essential for effectively leveraging the power of AI.  
 - 📝 A living document - continuously update with new technologies and knowledge.  
