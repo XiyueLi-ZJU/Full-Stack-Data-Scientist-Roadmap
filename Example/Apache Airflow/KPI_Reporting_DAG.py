@@ -27,9 +27,9 @@ dag = DAG(
 def fetch_data():
     # Connect to PostgreSQL database and fetch data
     conn = psycopg2.connect(
-        dbname="gardening_commerce_db",
+        dbname="gardening_business_db",
         user="dataengineerteam",
-        password="your_email_password",
+        password="dataengineer_password",
         host="localhost",
         port="5432"
     )
