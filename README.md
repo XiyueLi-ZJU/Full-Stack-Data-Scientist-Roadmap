@@ -12,8 +12,10 @@ Skills required for full-stack data professionals.
 
 ## Data Engineering
 - [Tech Skills and Key Responsibilities Overview](./DataEngineering/DataEngineering.ipynb) 
-    - Project Example - **🌱Sqaure Meter Gardening🌱**
-        - [Using ApacheAirflow for weekly reporting](./Example/Apache%20Airflow/Airflow_for_Weekly_Reporting.ipynb)
+    - [Apache Aiflow](https://airflow.apache.org/)
+    - [Apache Spark](https://spark.apache.org/)
+    - [Apache Flink](https://flink.apache.org/)
+    - [Apache Kafka](./DataEngineering/Kafka.ipynb)
 
 ## Data Science
 - Statistics 
@@ -22,8 +24,9 @@ Skills required for full-stack data professionals.
     - [ML Pipeline](./DataScience/MachineLearning/MLPipeline.ipynb)
     - [Clustering](./DataScience/MachineLearning/Clustering.ipynb)
 - [Data Analytics and Reporting](./DataScience/DataAnalyticsandReporting.ipynb)
-    - [Using ApacheSpark for data analysis](./Example/Spark.ipynb)
     - [Example - **🌱Sqaure Meter Gardening🌱** Project KPI](./Example/KPI.ipynb)
+    - [Using ApacheSpark for data analysis](./Example/Spark.ipynb)
+    - [Using ApacheAirflow for weekly reporting](./Example/Apache%20Airflow/Airflow_for_Weekly_Reporting.ipynb)
 
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
