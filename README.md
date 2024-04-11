@@ -18,7 +18,7 @@ Skills required for full-stack data professionals.
     - [Apache Kafka](./DataEngineering/Kafka.ipynb)
 
 ## Data Science
-- Statistics 
+- [Statistics](./DataScience/Statistics.ipynb) 
     - [AB Testing](./DataScience/ABTesting.ipynb)
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
     - [ML Pipeline](./DataScience/MachineLearning/MLPipeline.ipynb)
