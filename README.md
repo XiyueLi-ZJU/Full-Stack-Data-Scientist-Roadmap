@@ -37,9 +37,9 @@ Skills required for full-stack data professionals.
 
 # Knowledge
 
-- Git
+- [Git](https://git-scm.com/docs)
 - [Diagrams](./Knowledge/Diagrams.ipynb)
-- Agile
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
 - IoT
 
 # Certifications
