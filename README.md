@@ -27,6 +27,7 @@ Skills required for full-stack data professionals.
     - [Example - **🌱Sqaure Meter Gardening🌱** Project KPI](./Example/KPI.ipynb)
     - [Using ApacheSpark for data analysis](./Example/Spark.ipynb)
     - [Using ApacheAirflow for weekly reporting](./Example/Apache%20Airflow/Airflow_for_Weekly_Reporting.ipynb)
+- [Virtual Environment](./DataScience/VirtualEnvironment_Anaconda.ipynb)
 
 ## Data Management
 - [Data Architcture](./DataManagement/DataArchitecture.ipynb) 
