@@ -20,6 +20,7 @@ Skills required for full-stack data professionals.
 
 ## Data Science
 - [Statistics](./DataScience/Statistics.ipynb) 
+    - [Applications of Statistics in E-Commerce](./DataScience/StatisticsInEcommerce.ipynb)
     - [AB Testing](./DataScience/ABTesting.ipynb)
 - [Machine Learning](./DataScience/MachineLearning/MachineLearning.ipynb)
     - [ML Pipeline](./DataScience/MachineLearning/MLPipeline.ipynb)
