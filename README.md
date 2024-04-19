@@ -36,6 +36,7 @@ Skills required for full-stack data professionals.
 - Data Modeling
     - [Example - **🌱Sqaure Meter Gardening🌱** Project Data Modeling](./Example/DataModeling-Example.ipynb) 
 - Data Governance & Security
+- [Data Quality](./DataManagement/DataQuality.ipynb)
 
 # Knowledge
 
