@@ -16,6 +16,7 @@ Skills required for full-stack data professionals.
     - [Apache Spark](https://spark.apache.org/)
     - [Apache Flink](https://flink.apache.org/)
     - [Apache Kafka](./DataEngineering/Kafka.ipynb)
+    - [Data Pipeline](./DataEngineering/DataPipeline.ipynb)
 
 ## Data Science
 - [Statistics](./DataScience/Statistics.ipynb) 
