@@ -14,6 +14,7 @@ Skills required for full-stack data professionals.
 - [Tech Skills and Key Responsibilities Overview](./DataEngineering/DataEngineering.ipynb) 
     - [Apache Aiflow](./DataEngineering/ApacheAirflow.ipynb)
     - [Apache Spark](https://spark.apache.org/)
+        - [PySpark](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html#)
     - [Apache Flink](https://flink.apache.org/)
     - [Apache Kafka](./DataEngineering/Kafka.ipynb)
     - [Data Pipeline](./DataEngineering/DataPipeline.ipynb)
