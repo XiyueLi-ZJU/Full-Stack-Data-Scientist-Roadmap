@@ -1,4 +1,4 @@
-# Full-Stack-Data-Professional-Learning-Path
+# Full-Stack-Data-Scientist-Roadmap
 
 Why create this repo?
 - 💡 To provide a reference for starters and inspire individuals to learn.
